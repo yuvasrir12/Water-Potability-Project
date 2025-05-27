@@ -13,6 +13,7 @@ The objective of this project is to develop a classification model that predicts
 9) Turbidity
 # Dataset
 The dataset contains water quality samples labeled as:
+
 -Potable (1) – Safe for drinking
 
 -Not Potable (0) – Unsafe for drinking
@@ -39,6 +40,42 @@ Handling missing values
 Feature scaling
 
 Train-test split
+
+# Data Preprocessing
+
+Handling missing values
+
+Feature scaling
+
+Train-test split
+
+# Exploratory Data Analysis (EDA)
+
+Visualizing feature distributions
+
+Correlation analysis
+
+# Model Training
+
+Trained multiple classification models including:
+
+Logistic Regression
+
+Decision Tree
+
+Random Forest
+
+Support Vector Machine (SVM)
+
+K-Nearest Neighbors (KNN)
+
+# Model Evaluation
+
+Accuracy, Precision, Recall, F1-Score
+
+Confusion Matrix
+
+🧠 Results
 
 
 
