@@ -22,6 +22,7 @@ Trihalomethanes
 Turbidity
 
 📁 Dataset
+
 The dataset contains water quality samples labeled as:
 
 Potable (1) – Safe for drinking
@@ -31,6 +32,7 @@ Not Potable (0) – Unsafe for drinking
 Data Source:kaggle
 
 🧰 Technologies Used
+
 Python
 
 Jupyter Notebook
@@ -44,6 +46,7 @@ Matplotlib / Seaborn for data visualization
 Scikit-learn for model building and evaluation
 
 ⚙️ Workflow
+
 1)Data Preprocessing
 
 Handling missing values
@@ -73,6 +76,7 @@ Accuracy, Precision, Recall, F1-Score
 Confusion Matrix
 
 🧠 Results
+
 The best performing modelis Random Forest which achieved high accuracy and balanced precision-recall metrics, indicating its suitability for real-world water quality classification tasks.
 
 
